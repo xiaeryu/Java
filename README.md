@@ -1,6 +1,6 @@
 Java
 ===
-Starting learning Java from [a coursera online course Java programming](https://www.coursera.org/course/pkujava),
+Learning Java from [a coursera online course Java programming](https://www.coursera.org/course/pkujava),
 I'm trying to practice and improve my Java programming.
 
 In this repository are my playing arounds with Java.
@@ -13,4 +13,3 @@ In this repository are my playing arounds with Java.
   Practice the use of interface, abstract class, and class  
   Learn to use setter & getter  
   Try to @Override the functions
-
