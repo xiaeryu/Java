@@ -13,3 +13,9 @@ In this repository are my playing arounds with Java.
   Practice the use of interface, abstract class, and class  
   Learn to use setter & getter  
   Try to @Override the functions
+
+* **[UrlCrawler.java](https://github.com/xiaeryu/Java/blob/master/UrlCrawler.java)**  
+  Crawl URLs from a starting webpage.
+
+* **[WordTalent.java](https://github.com/xiaeryu/Java/blob/master/WordTalent.java)**  
+ A small program to help remember words.
