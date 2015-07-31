@@ -25,3 +25,6 @@ In this repository are my playing arounds with Java.
 
 * **[JDBC.java](https://github.com/xiaeryu/Java/blob/master/JDBC.java)**  
  Managing RDBMS via the Java API (MySQL, JavaDB, SQLServer, Sqlite).
+
+* **[Socket.java](https://github.com/xiaeryu/Java/blob/master/Socket.java), [Http.java](https://github.com/xiaeryu/Java/blob/master/Http.java)**  
+ Basic HTTP info.
