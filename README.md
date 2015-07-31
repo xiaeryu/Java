@@ -19,3 +19,9 @@ In this repository are my playing arounds with Java.
 
 * **[WordTalent.java](https://github.com/xiaeryu/Java/blob/master/WordTalent.java)**  
  A small program to help remember words.
+
+* **[Http.java](https://github.com/xiaeryu/Java/blob/master/Http.java)**  
+ Basics for sending Http queries.
+
+* **[JDBC.java](https://github.com/xiaeryu/Java/blob/master/JDBC.java)**  
+ Managing RDBMS via the Java API (MySQL, JavaDB, SQLServer, Sqlite).
